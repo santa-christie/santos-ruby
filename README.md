@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dart,Flutter**
 
-- 📫 How to reach me **write2zanthosh@gmail.com**
+- 📫 How to reach me **santhoshmanickam@zohomail.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
