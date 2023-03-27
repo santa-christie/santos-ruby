@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on a **ToDo app**
 
-- 🌱 I’m currently learning **Dart,Flutter**
+- 🌱 I’m currently learning **App Development**
+
+- 📚️ Started to read **Atomic Habits**
 
 - 📫 How to reach me **santhoshmanickam@zohomail.in**
 
