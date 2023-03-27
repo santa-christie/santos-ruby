@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santos-ruby" alt="santos-ruby" /></a> </p>
 
-- 🔭 I’m currently working on **Promote ToDo app**
+- 🔭 I’m currently working on a **ToDo app**
 
 - 🌱 I’m currently learning **Dart,Flutter**
 
