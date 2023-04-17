@@ -9,11 +9,11 @@
 
 - 🤸 **App Development** making it my cup of tea.
 
-- 😵‍💫 Ball rolling on **Atomic Habits**
+- 🏀 Ball rolling on **Atomic Habits**
 
-- 🤓 Music**Glitter and Gold**
+- 🐰 Ears filled with **Glitter and Gold**
 
-- ⚠️ Contact me **santhoshmanickam@zohomail.in**
+- 🗿 Fill me in **santhoshmanickam@zohomail.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
