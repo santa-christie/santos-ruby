@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Santa</h1>
-<h3 align="center">Scientist</h3>
+<h1 align="center">Hola, Santa here✌️</h1>
+<h3 align="center">I'm not a Doctor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santos-ruby&label=Profile%20views&color=0e75b6&style=flat" alt="santos-ruby" /> </p>
 
