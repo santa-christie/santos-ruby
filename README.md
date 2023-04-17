@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santos-ruby" alt="santos-ruby" /></a> </p>
 
-- 🔭 I’m currently working on a **ToDo app**
+- 🧑‍🔧 Spinning in the wheels of **ToDo app**
 
-- 🌱 I’m currently learning **App Development**
+- 🤸 **App Development** making it my cup of tea.
 
-- 📚️ Started to read **Atomic Habits**
+- 😵‍💫 Ball rolling on **Atomic Habits**
 
-- 📫 How to reach me **santhoshmanickam@zohomail.in**
+- 🤓 Music**Glitter and Gold**
+
+- ⚠️ Contact me **santhoshmanickam@zohomail.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
