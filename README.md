@@ -11,7 +11,7 @@
 
 - 🏀 Ball rolling on **Atomic Habits**
 
-- 🐰 Ears filled with **Glitter and Gold**
+- 🍃 Fluctuating to the words of **Glitter and Gold**
 
 - 🗿 Fill me in **santhoshmanickam@zohomail.in**
 
