@@ -7,7 +7,7 @@
 
 - 🧑‍🔧 Spinning in the wheels of **ToDo app**
 
-- 🤸 **App Development** making it my cup of tea.
+- 🤸 Making it my cup of tea **App Development** 
 
 - 🏀 Ball rolling on **Atomic Habits**
 
